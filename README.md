@@ -1,59 +1,83 @@
+# 📊 Excel Data Analysis Project  
+## 🚧 Indian Road Accidents Dashboard  
+### 👩‍💻 By Rutuja Yeola  
 
-Excel Data Analysis Project by Rutuja Yeola
+![Road Accidents Banner](https://github.com/user-attachments/assets/d3fe4d83-4337-428a-9075-984fe86235ed)
 
-📊 Indian Road Accidnets Dashboard
+---
 
+## 📌 Overview  
 
-<img width="1672" height="941" alt="Road Accidents Banner" src="https://github.com/user-attachments/assets/d3fe4d83-4337-428a-9075-984fe86235ed" />
+The **Indian Road Accident Project (2022–2025)** analyzes accident data to uncover key patterns and risk factors affecting road safety.  
 
-________________________________________
+It provides insights into:  
+- Accident frequency and severity  
+- Casualties and hotspot locations  
+- Impact of time, weather, and traffic conditions  
 
-📌 Overview
+By identifying **high-risk zones** and **recurring trends**, this project helps in understanding the major causes of road accidents and supports better decision-making for road safety improvements.
 
-The Indian Road Accident project analyzes accident data from 2022–2025 to identify key patterns and risk factors affecting road safety. It provides insights into accident frequency, severity, casualties, and hotspot locations across different regions. The analysis also examines the impact of time, weather, and traffic conditions on accidents. By identifying high-risk zones and recurring trends, the project helps understand the major causes of road accidents. 
-________________________________________
+---
 
-🛠️ Tool Used
+## 🛠️ Tools Used  
 
-The entire analysis and dashboard were created using **Microsoft Excel 2021**, utilizing: - Pivot Tables - Pivot Charts - Slicers - Professional dashboard design techniques
-________________________________________
-📁 Dataset
+The entire analysis and dashboard were built using:  
 
-You can view the dataset used in this project here:
+**Microsoft Excel 2021**, leveraging:  
+- Pivot Tables  
+- Pivot Charts  
+- Slicers  
+- Professional dashboard design techniques  
 
-🔗  https://www.kaggle.com/datasets/sehaj1104/indian-road-accident-dataset-20222025
-________________________________________
-🎯 Key Performance Indicators (KPIs)
+---
 
-• 🚗 Total Accidents – Total number of recorded accident cases across all locations
-• ⚰️ Total Fatalities – Total number of deaths caused by accidents
-• 🚙 Average Vehicles per Accident – Average number of vehicles involved per accident
-• ⚡ High-Risk Zone Percentage – Percentage of accidents in high-risk score areas
-• 📈 Monthly Accident Trends – Month-wise trend showing increase or decrease in      accidents
-• ⏱️ Peak Hour Accident Trends – Accidents during peak vs non-peak hours
-• 🚦 Traffic Density Impact – Accident distribution based on low, medium, and high traffic
-• 🌦️ Weather Condition Analysis – Impact of weather (rain, fog, clear, etc.) on accidents
-________________________________________
-📈 Key Insights
+## 📁 Dataset  
 
-• 🚗 Urban areas report the highest accidents due to dense traffic and congestion
-• ⚰️ Fatal accidents are more common on highways because of high-speed driving
-• 🌙 Peak accident hours occur during evening/night when visibility drops and traffic increases
-• 🌦️ Adverse weather (rain, fog) significantly increases accident risk
-📅 Weekends and festivals show spikes in accidents due to increased travel
-• 📍 Certain cities act as accident hotspots, indicating infrastructure or traffic issues
-________________________________________
-📚 Data Story
+📌 Dataset Source:  
+🔗 https://www.kaggle.com/datasets/sehaj1104/indian-road-accident-dataset-20222025  
 
-The dashboard shows that accidents are highest in urban areas, while highways have more fatal cases due to high speed. 
-Evening/night hours, weekends, and festivals see more accidents.
- Weather conditions like rain and fog increase risk, especially with low visibility.
- High traffic causes frequent but less severe accidents, whereas low traffic roads lead to more serious crashes. 
-Overall, accidents are influenced by traffic, time, weather, and road conditions.
-________________________________________
+---
 
-📎 Dashboard Snapshot
+## 🎯 Key Performance Indicators (KPIs)  
 
-<img width="1517" height="647" alt="Screenshot 2026-05-03 140634" src="https://github.com/user-attachments/assets/755c7e74-0f03-434a-9762-60db6236a1da" />
+- 🚗 **Total Accidents** – Total number of recorded accident cases  
+- ⚰️ **Total Fatalities** – Total number of deaths caused by accidents  
+- 🚙 **Average Vehicles per Accident** – Average vehicles involved per accident  
+- ⚡ **High-Risk Zone Percentage** – Accidents occurring in high-risk areas  
+- 📈 **Monthly Trends** – Month-wise increase/decrease in accidents  
+- ⏱️ **Peak Hour Analysis** – Accidents during peak vs non-peak hours  
+- 🚦 **Traffic Density Impact** – Distribution across low, medium, and high traffic  
+- 🌦️ **Weather Analysis** – Impact of weather conditions (rain, fog, clear, etc.)  
 
+---
 
+## 📈 Key Insights  
+
+- 🚗 Urban areas report the highest number of accidents due to heavy traffic and congestion  
+- ⚰️ Highways show more fatal accidents because of high-speed driving  
+- 🌙 Peak accidents occur during evening/night due to low visibility and increased traffic  
+- 🌦️ Adverse weather (rain, fog) significantly increases accident risk  
+- 📅 Weekends and festivals show noticeable spikes in accidents  
+- 📍 Certain cities emerge as accident hotspots, indicating infrastructure or traffic issues  
+
+---
+
+## 📚 Data Story  
+
+The dashboard highlights clear patterns:  
+
+- **Urban areas** have the highest accident frequency  
+- **Highways** contribute to more fatal accidents due to speed  
+- **Evenings, nights, weekends, and festivals** show higher accident rates  
+- **Weather conditions** like rain and fog increase risk, especially with low visibility  
+- **High traffic** leads to frequent but less severe accidents  
+- **Low traffic roads** often result in more severe crashes  
+
+👉 Overall, accidents are strongly influenced by:  
+**traffic density, time of day, weather conditions, and road infrastructure**  
+
+---
+
+## 📎 Dashboard Snapshot  
+
+![Dashboard Screenshot](https://github.com/user-attachments/assets/755c7e74-0f03-434a-9762-60db6236a1da)
