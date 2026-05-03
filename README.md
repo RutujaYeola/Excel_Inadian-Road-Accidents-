@@ -1,6 +1,12 @@
+
 Excel Data Analysis Project by Rutuja Yeola
 
 📊 Indian Road Accidnets Dashboard
+
+
+<img width="1672" height="941" alt="Road Accidents Banner" src="https://github.com/user-attachments/assets/d3fe4d83-4337-428a-9075-984fe86235ed" />
+
+________________________________________
 
 📌 Overview
 
